@@ -7,4 +7,5 @@
 * Saranya Priya Palakurthi
 * Akshansh Shrivastava
 * Kushal Karan
-Abhishek Kolvekar
+* Abhishek Kolvekar
+* Maharshi Sinha
